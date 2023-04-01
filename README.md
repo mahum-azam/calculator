@@ -1,2 +1,4 @@
 # Calculator
-"https://giphy.com/embed/p5Ox6YyLEUBZMNrwtR
+
+Demonstration video:
+https://giphy.com/embed/p5Ox6YyLEUBZMNrwtR
